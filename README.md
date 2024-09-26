@@ -12,7 +12,7 @@ The dataset consists of 6,000 images, categorized into four classes:
 ### Data Preparation
 The dataset is split into training and testing datasets:
 - **Training Data:** Create a `Training` folder and add data for training the data.
-- **Testing Data:** Create a `Testing` folder and add data for training the data.
+- **Testing Data:** Create a `Testing` folder and add data for testing the data.
 
 ## Model Architecture
 
