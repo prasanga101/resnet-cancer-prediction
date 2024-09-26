@@ -1,0 +1,2 @@
+Treaining Accuacy = 85
+Testing Accuracy = 78
